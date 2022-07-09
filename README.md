@@ -15,7 +15,7 @@ This project also enables us to improve skills in: windows, colors, events, fill
 
 ## How to test
 
-> Run the following commands. A few map files (```xx.cub```) are provided in the ```maps``` directory. Replace ```xx.cub``` with the file of your choice
+> Run the following commands on a MacOS system. A few map files (```xx.cub```) are provided in the ```maps``` directory. Replace ```xx.cub``` with the file of your choice
 
 ```shell
 $ git clone https://github.com/DelicaTessa/42-cub3d
